@@ -20,6 +20,20 @@ Take a look at my [GitHub](https://github.com/SimonChung2)!
 
 ![Image](http://az837918.vo.msecnd.net/publishedimages/articles/1733/en-CA/images/1/free-download-this-stunning-alberta-scene-for-your-device-background-image-L-6.jpg)
 
+## Code
+
+```HTML
+<html></html>
+```
+
+```CSS
+html {
+};
+
+```JavaScript
+document.getElementById("");
+```
+
 
 
 
