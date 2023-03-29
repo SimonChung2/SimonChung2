@@ -35,6 +35,17 @@ html {
 document.getElementById("");
 ```
 
+## Favourite Food
+
+Rank | Food
+--- | ---
+1 | Pizza
+2 | Stir Fry Beef with Broccoli
+3 | Fromage de Chevre Au Miel
+
+
+
+
 
 
 
