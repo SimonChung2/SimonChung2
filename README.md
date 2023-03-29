@@ -1,5 +1,7 @@
 # Simon Chung's Portfolio
 
+> ⚠️ **This page is a work in progress!**
+
 ## Education
 
 **Web Development** Ontario Graduate Certificate at *Humber College*
