@@ -12,8 +12,9 @@
 - C#
 - MySQL
 
+## My GitHub Portfolio
 
-### Hi there 👋
+Take a look at my [GitHub](https://github.com/SimonChung2)!
 
 
 
