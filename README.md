@@ -29,6 +29,7 @@ Take a look at my [GitHub](https://github.com/SimonChung2)!
 ```CSS
 html {
 };
+```
 
 ```JavaScript
 document.getElementById("");
