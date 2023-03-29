@@ -1,6 +1,24 @@
 # Simon Chung's Portfolio
 
+## Education
+
+**Web Development** Ontario Graduate Certificate at *Humber College*
+
+## Languages
+
+- HTML
+- CSS
+- JavaScript
+- C#
+- MySQL
+
+
 ### Hi there 👋
+
+
+
+
+
 
 <!--
 **SimonChung2/SimonChung2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
