@@ -23,7 +23,7 @@
 - React
 - Node
 
-## My GitHub Portfolio
+## My Portfoliio Site
 
 Take a look at my [GitHub](https://github.com/SimonChung2)!
 
