@@ -25,7 +25,7 @@
 
 ## My Portfoliio Site
 
-Take a look at my [GitHub](https://github.com/SimonChung2)!
+Take a look at my [portfolio](https://simonmchung.com)!
 
 ## Image
 
