@@ -1,4 +1,4 @@
-# Simon Chung's Portfolio
+# Simon Chung
 
 > ⚠️ **This page is a work in progress!**
 
