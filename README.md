@@ -4,9 +4,9 @@
 
 ## Education
 
--**Web Development** Ontario Graduate Certificate at *Humber College*
--**Construction Management** Postgraduate Diploma at *The University of the West Indies*
--**Civil Engineering** Bachelor of Science at *The University of the West Indies*
+* **Web Development** Ontario Graduate Certificate at *Humber College*
+* **Construction Management** Postgraduate Diploma at *The University of the West Indies*
+* **Civil Engineering** Bachelor of Science at *The University of the West Indies*
 
 ## Technologies I've worked with
 
