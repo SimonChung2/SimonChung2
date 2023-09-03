@@ -5,14 +5,23 @@
 ## Education
 
 **Web Development** Ontario Graduate Certificate at *Humber College*
+**Construction Management** Postgraduate Diploma at *The University of the West Indies*
+**Civil Engineering** Bachelor of Science at *The University of the West Indies*
 
-## Languages
+## Technologies I've worked with
 
 - HTML
 - CSS
 - JavaScript
 - C#
+- ASP.NET
 - MySQL
+- PHP
+- Laravel
+- Mongo DB
+- Express
+- React
+- Node
 
 ## My GitHub Portfolio
 
