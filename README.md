@@ -1,6 +1,6 @@
-# Simon Chung
+# Simon Chung - Web Developer
 
-> ⚠️ **This page is a work in progress!**
+>  **Welcome to my GitHub!**
 
 ## Education
 
