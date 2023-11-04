@@ -1,6 +1,5 @@
 # Simon Chung - Web Developer
 
->  ![Image](https://simonmchung.com/github/github_banner.png)
 
 ## Education
 
