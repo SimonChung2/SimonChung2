@@ -27,31 +27,6 @@
 Take a look at my [portfolio](https://simonmchung.com)!
 
 
-## Code
-
-```HTML
-<html></html>
-```
-
-```CSS
-html {
-};
-```
-
-```JavaScript
-document.getElementById("");
-```
-
-## Favourite Food
-
-Rank | Food
---- | ---
-1 | Pizza
-2 | Stir Fry Beef with Broccoli
-3 | Fromage de Chevre Au Miel
-
-
-
 
 
 
