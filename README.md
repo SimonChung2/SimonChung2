@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Simon Chung</h1>
 <h3 align="center">An enthusiastic developer from the Caribbean</h3>
 
-- 🔭 I’m currently working on **a Timesheet App**
+- 🔭 I’m currently working on **a Website**
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 🤝 I’m looking for help with **my Timesheet App**
 
 - 👨‍💻 All of my projects are available at [www.simon-chung.com](www.simon-chung.com)
 
