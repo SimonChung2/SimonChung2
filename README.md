@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Simon Chung</h1>
-<h3 align="center">An enthusiastic developer from the Caribbean</h3>
+<h3 align="center">An enthusiastic developer in Toronto</h3>
 
 - 🔭 I’m currently working on **a Website**
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **Practical Projects That Solve a Problem**
 
 - 👨‍💻 All of my projects are available at [www.simon-chung.com](www.simon-chung.com)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **simonmchung@gmail.com**
 
-- ⚡ Fun fact **I'm from the Caribbean but I love the cold that's why I'm in Canada now**
+- ⚡ Fun fact **I'm from the Caribbean but I love winter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
