@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonchung2&show_icons=true&locale=en&layout=compact" alt="simonchung2" /></p>
 
-![](https://komarev.com/ghpvc/?username=SimonChung2)
+![](https://komarev.com/ghpvc/?username=SimonChung2&color=lightgrey)
