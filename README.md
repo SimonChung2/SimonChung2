@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **simonmchung@gmail.com**
+- 📫 You can reach me at **simonmchung@gmail.com**
 
 - ⚡ Fun fact **I'm from the Caribbean but I love winter**
 
