@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simon Chung</h1>
 <h3 align="center">An enthusiastic developer in Toronto</h3>
 
-- 🔭 I’m currently working on **a Website**
+- 🔭 I’m currently working on **Upskilling**
 
 - 🌱 I’m currently learning **TypeScript**
 
