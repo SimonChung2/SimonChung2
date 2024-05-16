@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on **Practical Projects That Solve a Problem**
+- 👯 I’m looking to collaborate on **Projects That Solve a Problem**
 
 - 👨‍💻 All of my projects are available at [www.simon-chung.com](www.simon-chung.com)
 
